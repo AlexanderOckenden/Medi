@@ -1,0 +1,3 @@
+# Medi
+
+Brighton Medi is an innovative app specifically designed for students, providing them with convenient access to essential healthcare services. With Brighton Medi, students can easily book appointments with doctors, schedule lab tests, and order necessary medicines, all within a user-friendly platform. The app simplifies the healthcare journey for medical students, saving them time and effort. With just a few taps, they can access a wide range of medical services from their devices, ensuring easy access to quality healthcare and eliminating the need for multiple phone calls or physical visits.
